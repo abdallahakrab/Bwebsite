@@ -8,7 +8,7 @@ import { ProfileRoutingModule } from './profile-routing.module';
 
 
 @NgModule({
-  declarations: [ProfileFormComponent],
+  declarations: [],
   imports: [
     CommonModule,
     
