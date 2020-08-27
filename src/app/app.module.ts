@@ -26,7 +26,8 @@ import { HomeSec1Component } from './components/home-sec1/home-sec1.component';
     TextButtonComponent,
     HomeComponent,
     ErrorMessageComponent,
-    HomeSec1Component
+    HomeSec1Component,
+    ProfileFormComponent
     
   ],
   imports: [
