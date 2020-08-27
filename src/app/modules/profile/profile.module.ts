@@ -11,7 +11,7 @@ import { ProfileRoutingModule } from './profile-routing.module';
   declarations: [],
   imports: [
     CommonModule,
-    
+    ProfileFormComponent,
     ProfileRoutingModule
   ]
 })
